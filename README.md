@@ -27,4 +27,4 @@ Este é um exemplo **demonstrativo** de um site para um restaurante de sushi fic
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/TheMathPireso/lisbon_sushi.git
+   git clone https://github.com/TheMathPireso/lx-sushi.git
